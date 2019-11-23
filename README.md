@@ -1,3 +1,5 @@
-# indecisionApp
-react app
-# expensify-app
+# Expensify App
+
+Mainly built for learning React.
+
+
